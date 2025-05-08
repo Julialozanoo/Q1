@@ -1,0 +1,16 @@
+body{
+	background-color: midnightblue;
+	color: black;
+
+}
+.container {
+	background-color: darkblue;
+}
+img {
+	width: 150px;
+	box-shadow: -20px 22px 50px -9px rgba(0, 0, 0, 10.100);
+	padding: 5px;
+}
+footer{
+	text-align: center;
+}
